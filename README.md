@@ -29,7 +29,8 @@ Welcome to my profile! Here's a bit about me:
 
 ## 🔥 Contributions 
 ![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=andre-rd-rodrigues&theme=react-dark&hide_border=true&area=true) 
+
 ## 🌟 Top Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=primetravel-app&theme=radical)](https://github.com/andre-rd-rodrigues/primetravel-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=cdeff&theme=radical)](https://github.com/andre-rd-rodrigues/cdeff)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=curiositygem&theme=radical)](https://github.com/andre-rd-rodrigues/curiositygem)
 
