@@ -28,9 +28,9 @@ Welcome to my profile! Here's a bit about me:
 [![trophy](https://github-profile-trophy.vercel.app/?username=andre-rd-rodrigues&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔥 Contributions 
-![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=andre-rd-rodrigues&theme=react-dark&hide_border=true&area=true) 
+ ![](https://github-readme-streak-stats.herokuapp.com/?user=andre-rd-rodrigues&theme=tokyonight&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rd-rodrigues&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 
 ## 🌟 Top Repositories
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=primetravel-app&theme=radical)](https://github.com/andre-rd-rodrigues/primetravel-app)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=curiositygem&theme=radical)](https://github.com/andre-rd-rodrigues/curiositygem)
-
