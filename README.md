@@ -1,6 +1,5 @@
-<div align="center">
-  <img src="https://github.com/andre-rd-rodrigues/andre-rd-rodrigues/assets/67346660/288d8e76-e174-478e-860e-eabf3947a5e9" alt="logo"/>
-</div>
+
+![Web Developer](https://github.com/andre-rd-rodrigues/andre-rd-rodrigues/assets/67346660/8fda3ea6-0baa-4557-9c69-fbede9602ece)
 
 <div id="badges" align="center">
   <a href="https://www.andrerodrigo.com">
@@ -14,8 +13,7 @@
   </a>
 </div>
 
-
-# Welcome to my profile! 👋 👨‍💻
+# Welcome! 👋 
 
 -   ⚙️ **Current Focus:** I am working heavily with **MERN Stack** - MongoDB, Express, React, and Node.js. I love leveraging these technologies to build robust, dynamic web applications.
 -   🛠️ **Professional Journey:** I have a diverse background. Worked in sales, entertainment and fintech industries, building SaaS applications. Now, I am channeling my expertise into cybersecurity, contributing to [Probely](https://www.probely.com/) as a Software Engineer.
@@ -92,9 +90,11 @@
 
 ## 🔥 Contributions 
  ![](https://github-readme-streak-stats.herokuapp.com/?user=andre-rd-rodrigues&theme=tokyonight&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=andre-rd-rodrigues&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+ 
 
 <a href="https://app.daily.dev/andrerodrigues1000"><img src="https://api.daily.dev/devcards/v2/LXNlWbXCNtrH2srkNPhKl.png?r=mw3" width="356" alt="Andre Rodrigo's Dev Card"/></a>
 
 ## 🌟 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=primetravel-app&theme=radical)](https://github.com/andre-rd-rodrigues/primetravel-app)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=curiositygem&theme=radical)](https://github.com/andre-rd-rodrigues/curiositygem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=primetravel-app&theme=tokyonight)](https://github.com/andre-rd-rodrigues/primetravel-app)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=curiositygem&theme=tokyonight)](https://github.com/andre-rd-rodrigues/curiositygem)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=andre-rd-rodrigues&repo=curiositygem&theme=tokyonight)](https://github.com/andre-rd-rodrigues/curiositygem)
