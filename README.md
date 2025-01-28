@@ -16,7 +16,7 @@
 # Welcome! 👋 
 
 -   ⚙️ **Current Focus:** I am working heavily with **MERN Stack** - MongoDB, Express, React, and Node.js. I love leveraging these technologies to build robust, dynamic web applications.
--   🛠️ **Professional Journey:** I have a diverse background. Worked in sales, entertainment and fintech industries, building SaaS applications. Now, I am channeling my expertise into cybersecurity, contributing to [Probely](https://www.probely.com/) as a Software Engineer.
+-   🛠️ **Professional Journey:** I have a diverse background. Worked in sales, entertainment and fintech industries, building SaaS applications. Now, I am channeling my expertise into cybersecurity, contributing to [Snyk](https://www.snyk.io/) as a Software Engineer.
 -   🤝 **Collaboration:** I'm always open to new opportunities and collaborations!
 -   🌐 **Let's Connect:** Got questions about web development? Need advice on your project? Feel free to reach out. I'm here to help and share my knowledge!
 
